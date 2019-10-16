@@ -1,6 +1,9 @@
 # Research Project - A Computational Comparison of Sorting Algorithms
 Capstone Research Project - A Computational Comparison of Sorting Algorithms
 
+Report: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FinalReport.pdf
+Presentation: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FINAL_PRESENTATION.pdf
+
 # Abstract
 
 Sorting algorithms are used to sort data into order. Previous researchers have used asymptotic analysis method and considered worst running time of algorithms for comparison of sorting algorithms. This project used practical cases and considered average running time of algorithms for comparing four sorting algorithms, namely, Bubble sort, Insertion sort, Merge sort and Quick sort. The purpose of this project was to find out the difference in practical method and theoretical method of comparing sorting algorithms. Based on
