@@ -1,8 +1,9 @@
 # Research Project - A Computational Comparison of Sorting Algorithms
 Capstone Research Project - A Computational Comparison of Sorting Algorithms
 
-Report: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FinalReport.pdf
-Presentation: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FINAL_PRESENTATION.pdf
+### Report: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FinalReport.pdf
+### Presentation: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/FINAL_PRESENTATION.pdf
+### Latest Report: https://github.com/AyushGupta51379/Research_A_Computational_Comparison_of_Sorting_Algorithms/blob/master/A_Computational_Comparison_of_Sorting_Algorithms.pdf
 
 # Abstract
 
